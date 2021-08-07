@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @starcoder01
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in Full Stack Web Development using MERN Stack
+- 👀 I love to do Competitive Programming.
+- 🌱 I’m currently learning backend Development 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can contact me through mail : snehabanga02@gmail.com
 
