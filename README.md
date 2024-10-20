@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sneha Banga
 - 🌱 I’m addicted to learning and growing everyday
-- 👀 I’m interested in Full Stack Web Development using MERN Stack
+- 👀 I’m interested in Backend Development using Java8, Springboot, Microservices
 - 👀 I love to do Competitive Programming.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can contact me through mail : snehabanga02@gmail.com
